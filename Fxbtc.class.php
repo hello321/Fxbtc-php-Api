@@ -68,7 +68,7 @@ class Fxbtc
 	}
 	/**
 	 * Fxbtc::ticker()
-	 * Returns current ticker from MtGOX
+	 * Returns current ticker from Fxbtc
 	 * @return $ticker
 	 */
 	function ticker($pair = "btc_cny") {
@@ -78,7 +78,7 @@ class Fxbtc
 	}
 	/**
 	 * Fxbtc::depth()
-	 * Returns market depth from MtGOX
+	 * Returns market depth from Fxbtc
 	 * @return $ticker
 	 */
 	function depth($pair = "btc_cny") {
@@ -87,7 +87,7 @@ class Fxbtc
 	}
 	/**
 	 * Fxbtc::last_trade()
-	 * Returns market depth from MtGOX
+	 * Returns market depth from Fxbtc
 	 * @return $ticker
 	 */
 	function last_trade($pair = "btc_cny") {
@@ -96,7 +96,7 @@ class Fxbtc
 	}
          /**
 	 * Fxbtc::history_trade()
-	 * Returns market depth from MtGOX
+	 * Returns market depth from Fxbtc
 	 * @return $ticker
 	 */
 	function history_trade($pair = "btc_cny") {
