@@ -27,4 +27,4 @@ Fxbtc 是国内一家比特币交易平台。(https://www.fxbtc.com/api_doc)
 
 捐赠
 =============
-1KNSirq3KyHbK3o9oFWhZdoCHBT3sj7ahw
+1kenNNFn295AMdvV3QhAgh5Rfxcv7j4JE
